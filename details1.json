@@ -36,7 +36,7 @@
         },
         {
           "Registration": [
-            "click <a style='all: revert;'href='https://forms.gle/fi3KPHuQNv9H2VbSA'>here</a> to register"
+            "click <a href='https://forms.gle/fi3KPHuQNv9H2VbSA'>here</a> to register"
           ]
         }
       ]
@@ -78,7 +78,7 @@
         },
         {
           "Registration": [
-            "click <a style='all: revert;'href='https://forms.gle/pMZYLQkHJ7Uhd5Wf9'>here</a> to register"
+            "click <a href='https://forms.gle/pMZYLQkHJ7Uhd5Wf9'>here</a> to register"
           ]
         }
       ]
@@ -117,7 +117,7 @@
         },
         {
           "Registration": [
-            "click <a style='all: revert;'href='https://forms.gle/qeFj4fN5kkS5cY3v8'>here</a> to register"
+            "click <a href='https://forms.gle/qeFj4fN5kkS5cY3v8'>here</a> to register"
           ]
         }
       ]
@@ -160,7 +160,7 @@
         },
         {
           "Registration": [
-            "click <a style='all: revert;'href='https://forms.gle/ez2oRKP6M9BPbrKr7'>here</a> to register"
+            "click <a href='https://forms.gle/ez2oRKP6M9BPbrKr7'>here</a> to register"
           ]
         }
       ]
@@ -205,7 +205,7 @@
         },
         {
           "Registration": [
-            "click <a style='all: revert;'href='https://forms.gle/yne4rnQYJv21xyvS7'>here</a> to register"
+            "click <a href='https://forms.gle/yne4rnQYJv21xyvS7'>here</a> to register"
           ]
         }
       ]
@@ -240,10 +240,12 @@
         },
         {
           "Entry Fee": ["₹50"]
+        },{
+          "Note" : ["Registration Fees manditary(₹200)"]
         },
         {
           "Registration": [
-            "click <a style='all: revert;'href='https://forms.gle/BMb8iUYdedkCcf466'>here</a> to register"
+            "click <a href='https://forms.gle/BMb8iUYdedkCcf466'>here</a> to register"
           ]
         }
       ]
@@ -280,7 +282,7 @@
         },
         {
           "Registration": [
-            "click <a style='all: revert;'href='https://forms.gle/jK23PMwEXybUptz47'>here</a> to register"
+            "click <a href='https://forms.gle/jK23PMwEXybUptz47'>here</a> to register"
           ]
         }
       ]
@@ -311,7 +313,7 @@
         {
           "Incharge": [
             "Nithish - 7305518114",
-            "saravanan - 7871935518"
+            "Saravanan - 7871935518"
           ]
         },
         
@@ -322,7 +324,7 @@
         },
         {
           "Registration": [
-            "click <a style='all: revert;'href='https://forms.gle/MmmYyNWMMAsQK5Fc9'>here</a> to register"
+            "click <a href='https://forms.gle/MmmYyNWMMAsQK5Fc9'>here</a> to register"
           ]
         }
       ]
@@ -359,7 +361,7 @@
           ]
         },{
           "Registration": [
-            "click <a style='all: revert;'href='https://forms.gle/U6uDoiD6t8umk9Uu8'>here</a> to register"
+            "click <a href='https://forms.gle/U6uDoiD6t8umk9Uu8'>here</a> to register"
           ]
         }
       ]
@@ -382,7 +384,7 @@
         },
         {
           "Incharge": [
-            "Naveen Kumar TY - 7397 292 496"
+            "Naveen Kumar TY - 7397292496"
           ]
         },
         {
@@ -392,13 +394,13 @@
         },
         {
           "Registration": [
-            "click <a style='all: revert;'href='https://docs.google.com/forms/d/e/1FAIpQLSfPY3WQ79eHr66r8r7REUu6CUz9HgFztlMURWNmtQTI9JJaCg/viewform?usp=sf_link'>here</a> to register"
+            "click <a href='https://docs.google.com/forms/d/e/1FAIpQLSfPY3WQ79eHr66r8r7REUu6CUz9HgFztlMURWNmtQTI9JJaCg/viewform?usp=sf_link'>here</a> to register"
           ]
         }
       ]
     },
-    "Treasure hunt": {
-      "name": "Treasure hunt",
+    "Uncharted": {
+      "name": "Uncharted",
       "subline": "skill",
       "desc": [ ],
       "contents": [
@@ -428,7 +430,7 @@
         },
         {
           "Registration": [
-            "click <a style='all: revert;'href='https://forms.gle/yG8NFzxDhZxgZ2fU6'>here</a> to register"
+            "click <a href='https://forms.gle/yG8NFzxDhZxgZ2fU6'>here</a> to register"
           ]
         }
       ]
@@ -464,7 +466,7 @@
         },
         {
           "Registration": [
-            "click <a style='all: revert;'href='https://docs.google.com/forms/d/e/1FAIpQLSf6yjajjlSHnFE3yxwpSAMcFzrjWdrg7qTT7DTZABSQP8xHQQ/viewform?usp=sf_link'>here</a> to register"
+            "click <a href='https://docs.google.com/forms/d/e/1FAIpQLSf6yjajjlSHnFE3yxwpSAMcFzrjWdrg7qTT7DTZABSQP8xHQQ/viewform?usp=sf_link'>here</a> to register"
           ]
         }
       ]
@@ -498,7 +500,7 @@
         },
         {
           "Registration": [
-            "click <a style='all: revert;'href='https://forms.gle/gReR98p2v6hvp25J8'>here</a> to register"
+            "click <a href='https://forms.gle/gReR98p2v6hvp25J8'>here</a> to register"
           ]
         }
       ]
@@ -510,13 +512,15 @@
       "contents": [
         {
           "Rules": [
-            "the touch move rule is followed",
-            "understand 50 move draw rule",
-            "game can be climb drawn after 50 moves if there is no pawn moves or no captures",
-            "understand 3 fold reputation rule",
-            "the game can be climbed draw if the same exact position is repeated thrice",
-            "no outside assistance during the game",
-            "in case of any confusion/disputes talk to the tournament organisation"
+            "The touch move rule is followed",
+            "Understand 50 move draw rule",
+            "Game can be climb drawn after 50 moves if there is no pawn moves or no captures",
+            "Understand 3 fold reputation rule",
+            "The game can be climbed draw if the same exact position is repeated thrice",
+            "No outside assistance during the game",
+            "In case of any confusion/disputes talk to the tournament organisation",
+            "Standard Rapid timing will be followed in all rounds of matches",
+            "Existing prize will be awarded for the Winner"
           ]
         },
         {
@@ -534,7 +538,7 @@
         },
         {
           "Registration": [
-            "click <a style='all: revert;'href='https://forms.gle/7YtiGMUq3PTxts8Y9'>here</a> to register"
+            "click <a href='https://forms.gle/7YtiGMUq3PTxts8Y9'>here</a> to register"
           ]
         }
       ]
@@ -569,7 +573,7 @@
         },
         {
           "Registration": [
-            "click <a style='all: revert;'href=''>here</a> to register"
+            "click <a href=''>here</a> to register"
           ]
         }
       ]
@@ -593,7 +597,8 @@
         },
         {
           "Incharge": [
-            "Abishek - 75500 41964"
+            "Abishek - 7550041964",
+            "Rajeshwaran - 9841839321"
           ]
         },
         {
@@ -603,7 +608,7 @@
         },
         {
           "Registration": [
-            "click <a style='all: revert;'href='https://forms.gle/6apmg9YE7pxSHTSJ8'>here</a> to register"
+            "click <a href='https://forms.gle/6apmg9YE7pxSHTSJ8'>here</a> to register"
           ]
         }
       ]
@@ -637,7 +642,7 @@
         },
         {
           "Registration": [
-            "click <a style='all: revert;'href=''>here</a> to register"
+            "click <a href=''>here</a> to register"
           ]
         }
       ]
@@ -671,7 +676,7 @@
         },
         {
           "Registration": [
-            "click <a style='all: revert;'href='https://forms.gle/3VjBfefLR1a4mqvQ7'>here</a> to register"
+            "click <a href='https://forms.gle/3VjBfefLR1a4mqvQ7'>here</a> to register"
           ]
         }
       ]
@@ -706,7 +711,7 @@
         },
         {
           "Registration": [
-            "click <a style='all: revert;'href='https://docs.google.com/forms/d/1mJZ0xlMr8e4C5cxfhZg4l1Gpi_-kJ-8b5q-obCzmzOQ/edit?usp=drivesdk&chromeless=1'>here</a> to register"
+            "click <a href='https://docs.google.com/forms/d/1mJZ0xlMr8e4C5cxfhZg4l1Gpi_-kJ-8b5q-obCzmzOQ/edit?usp=drivesdk&chromeless=1'>here</a> to register"
           ]
         }
       ]
@@ -766,7 +771,7 @@
         },
         {
           "Registration": [
-            "click <a style='all: revert;'href='https://docs.google.com/forms/d/e/1FAIpQLScbYmnTKF21onOervhUs6fgaRDV_746Q7CwQ3tKI9kpQbbO2g/viewform?usp=sf_link'>here</a> to register"
+            "click <a href='https://docs.google.com/forms/d/e/1FAIpQLScbYmnTKF21onOervhUs6fgaRDV_746Q7CwQ3tKI9kpQbbO2g/viewform?usp=sf_link'>here</a> to register"
           ]
         }
       ]
@@ -803,7 +808,7 @@
         },
         {
           "Registration": [
-            "click <a style='all: revert;'href='https://docs.google.com/forms/d/e/1FAIpQLSfmQwxD-dWvi_tYJvejT7H46kNavxnEN2J-xJCZ0TN3O0O0dg/viewform'>here</a> to register"
+            "click <a href='https://docs.google.com/forms/d/e/1FAIpQLSfmQwxD-dWvi_tYJvejT7H46kNavxnEN2J-xJCZ0TN3O0O0dg/viewform'>here</a> to register"
           ]
         }
       ]
@@ -837,7 +842,7 @@
         },
         {
           "Registration": [
-            "click <a style='all: revert;'href='https://docs.google.com/forms/d/1SSBkV5wLk3tNpUCdJKo55lETfAVXBVA6eei1H6hsIQc/edit?chromeless=1'>here</a> to register"
+            "click <a href='https://docs.google.com/forms/d/1SSBkV5wLk3tNpUCdJKo55lETfAVXBVA6eei1H6hsIQc/edit?chromeless=1'>here</a> to register"
           ]
         }
       ]

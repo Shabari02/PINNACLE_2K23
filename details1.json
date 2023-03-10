@@ -32,11 +32,11 @@
           ]
         },
         {
-          "Entry Fee":["₹50"]
+          "Entry Fee":["₹50","Registration Fees manditary(₹200)"]
         },
         {
           "Registration": [
-            "click <a href='https://forms.gle/fi3KPHuQNv9H2VbSA'>here</a> to register"
+            "click <a style='revert:all' href='https://forms.gle/fi3KPHuQNv9H2VbSA'>here</a> to register"
           ]
         }
       ]
@@ -74,7 +74,7 @@
           ]
         },
         {
-          "Entry Fee":["₹30"]
+          "Entry Fee":["₹30","Registration Fees manditary(₹200)"]
         },
         {
           "Registration": [
@@ -113,7 +113,7 @@
           ]
         },
         {
-          "Entry Fee": ["₹30"]
+          "Entry Fee": ["₹30","Registration Fees manditary(₹200)"]
         },
         {
           "Registration": [
@@ -156,7 +156,7 @@
           ]
         },
         {
-          "Entry Fee":["₹30"]
+          "Entry Fee":["₹30","Registration Fees manditary(₹200)"]
         },
         {
           "Registration": [
@@ -201,7 +201,7 @@
           ]
         },
         {
-          "Entry Fee" : ["₹50"]
+          "Entry Fee" : ["₹50","Registration Fees manditary(₹200)"]
         },
         {
           "Registration": [
@@ -239,9 +239,7 @@
           ]
         },
         {
-          "Entry Fee": ["₹50"]
-        },{
-          "Note" : ["Registration Fees manditary(₹200)"]
+          "Entry Fee": ["₹50","Registration Fees manditary(₹200)"]
         },
         {
           "Registration": [
@@ -278,7 +276,7 @@
           ]
         },
         {
-          "Entry Fee": ["₹30"]
+          "Entry Fee": ["₹30","Registration Fees manditary(₹200)"]
         },
         {
           "Registration": [
